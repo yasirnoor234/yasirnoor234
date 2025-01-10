@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Yasir Noor, Full Stack Developer with 10+ Years of Experience
+## Hi there 👋, I'm Yasir Noor, Full Stack Developer with 7+ Years of Experience
 
 A passionate Full Stack Developer
 
