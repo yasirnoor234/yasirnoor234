@@ -4,7 +4,7 @@ A passionate Full Stack Developer
 
 🔗 Explore my freelance experiences on Upwork: (https://www.upwork.com/freelancers/~011ca680f668b29ad7)
 
-💬 Ask me about: WordPress, WooCommerce, Shopify, Liquid, HTML, CSS, JavaScript, jQuery, Figma
+💬 Ask me about: **WordPress, WooCommerce, Shopify, Liquid, HTML, CSS, JavaScript, jQuery, Figma**
 
 📫 How to reach me: yasir.noor@itstackpro.com
 
