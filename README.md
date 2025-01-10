@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Yasir Noor, Full Stack Developer with 7+ Years of Experience
 
-A passionate Full Stack Developer
+A passionate Full Stack Developer based in Pakistan
 
 🔗 Explore my freelance experiences on Upwork: (https://www.upwork.com/freelancers/~011ca680f668b29ad7)
 
